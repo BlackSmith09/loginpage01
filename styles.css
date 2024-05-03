@@ -1,0 +1,7 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:300);
+
+.login-page{
+    width: 360px;       /*It made most of the element to come in straight line*/
+    padding: 8% 0 0;    /*Deflected from top*/
+    margin: auto;       /*Made all the elements to come in middle*/
+}
